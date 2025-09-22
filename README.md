@@ -5,7 +5,7 @@ Delivered : Cleaned Dataset
 Guide: 
 1)Identified and handled missing values using  filters in Excel.
     -Blank fields in income column was identified and replaced with the mean value of the income.
-2)Removed duplicate rows in Excel’s “Remove Duplicates”.   
+2)Removed duplicate rows in Excel’s “Remove Duplicates”.  
    -Checked for duplicates by selecting full data and under Data --> Data tools --> remove duplicates was dane.
     output is "No duplicate values is found".
 3)Standardize text values like gender, country names, etc.
